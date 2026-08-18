@@ -83,7 +83,7 @@ Universidade Presbiteriana Mackenzie
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Guilherme Tadeu](www.linkedin.com/in/guilhermetadeualves)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: guilherme.tadeu.alvess@gmail.com
 
 ---
 

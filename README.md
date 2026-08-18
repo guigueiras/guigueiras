@@ -50,8 +50,6 @@ A mobile application designed to help users create and manage personalized diet 
 - Shopping list generation
 - Local data persistence
 
-[View Repository](https://github.com/guiguieras/guigym-dieta)
-
 ---
 
 ### 🏋️ Gym Management System
